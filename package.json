@@ -1,0 +1,22 @@
+{
+  "name": "nodeloginboilerplate",
+  "version": "0.0.0",
+  "description": "Building a working login system from scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danakin/NodeLoginBoilerplate.git"
+  },
+  "author": "Danny Festor <danny.festor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danakin/NodeLoginBoilerplate/issues"
+  },
+  "homepage": "https://github.com/Danakin/NodeLoginBoilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
